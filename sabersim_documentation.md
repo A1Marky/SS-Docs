@@ -62,7 +62,7 @@ Remember to replace `[API_KEY]` with the actual API key in your documentation if
 
 
 
-# Games API
+# Games Schedule API
 
 ## Overview
 
